@@ -6,13 +6,24 @@
 [![docs](https://img.shields.io/badge/docs-here-pink)](https://github.com/Bamboooz/pysil/blob/master/pysil/docs.md)
 
 # sil-core
-sil-core - core for my system, hardware and network gathering libraries
+sil-core - core for 'sil' system libraries
+
+# goal
+I want to import my PySil library to other programming languages,
+
+and this is an open source core for all of these libraries,
+
+so if you want to make one yourself, below is the tutorial how to do so.
 
 # usage
   - put the core folder into your library
-  - make functions in language your library is coded in
-  - for each function in your language assign function from core folder
+  - create a library in your desired language
+  - for each library function assign one function file from core folder ( there are tools to run pyhton files for example in java jython )
   - done!
+
+# other
+If you are going to publish your library anywhere,
+in the description/docs/wiki you have to include me as core creator and put a link to this sil-core project
 
 # License
 -------
